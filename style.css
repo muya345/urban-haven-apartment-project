@@ -5,7 +5,7 @@ body {
 }
 
 /* Header Styles */
-header {
+.header {
     background-color: #f0f0f0;
     padding: 10px 0;
 }
@@ -31,7 +31,7 @@ header {
 }
 
 /* Home Section Styles */
-#home {
+.home {
     height: 300px; 
     background-image: url('./src/images/view\ 1.jpg'); 
     background-size: cover;
